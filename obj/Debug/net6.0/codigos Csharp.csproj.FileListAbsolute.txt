@@ -1,0 +1,15 @@
+C:\codigos Csharp\bin\Debug\net6.0\codigos Csharp.exe
+C:\codigos Csharp\bin\Debug\net6.0\codigos Csharp.deps.json
+C:\codigos Csharp\bin\Debug\net6.0\codigos Csharp.runtimeconfig.json
+C:\codigos Csharp\bin\Debug\net6.0\codigos Csharp.dll
+C:\codigos Csharp\bin\Debug\net6.0\codigos Csharp.pdb
+C:\codigos Csharp\obj\Debug\net6.0\codigos Csharp.csproj.AssemblyReference.cache
+C:\codigos Csharp\obj\Debug\net6.0\codigos Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos Csharp\obj\Debug\net6.0\codigos Csharp.AssemblyInfoInputs.cache
+C:\codigos Csharp\obj\Debug\net6.0\codigos Csharp.AssemblyInfo.cs
+C:\codigos Csharp\obj\Debug\net6.0\codigos Csharp.csproj.CoreCompileInputs.cache
+C:\codigos Csharp\obj\Debug\net6.0\codigos Csharp.dll
+C:\codigos Csharp\obj\Debug\net6.0\refint\codigos Csharp.dll
+C:\codigos Csharp\obj\Debug\net6.0\codigos Csharp.pdb
+C:\codigos Csharp\obj\Debug\net6.0\codigos Csharp.genruntimeconfig.cache
+C:\codigos Csharp\obj\Debug\net6.0\ref\codigos Csharp.dll
