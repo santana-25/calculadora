@@ -1,6 +1,6 @@
 ﻿class Program
 {
-    ///isso é um teste do git
+    ///isso é um teste do github
     static void Main()
     {
         Console.Write("escolha um numero: ");
